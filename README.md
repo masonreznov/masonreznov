@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, my name is Michael Salam and I am a Ph.D. candidate at [National Institute of Technology, Silchar](http://nits.ac.in/), India. My research interest is primarily on Natural Language Processing for low resource languages.
+Hi, my name is Michael Salam and I am a Ph.D. candidate at [National Institute of Technology, Silchar, India](http://nits.ac.in/). My research interest is primarily on Natural Language Processing for low resource languages.
 <!-- 
 The following is for profile views 
 -->
