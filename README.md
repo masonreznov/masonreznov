@@ -12,4 +12,7 @@ The following is for profile views
 
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=masonreznov&show_icons=true&theme=radical&count_private=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masonreznov&layout=compact)](https://masonreznov.github.io/)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=masonreznov)
