@@ -1,5 +1,5 @@
-<!-- ### Hi there 👋 -->
 
+:coffee: I'm Michael and I turn coffee into code :coffee:
 <!--
 **masonreznov/masonreznov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <!-- 
 The following is for profile views 
 -->
-<!-- ![](https://komarev.com/ghpvc/?username=masonreznov) -->
+![](https://komarev.com/ghpvc/?username=masonreznov)
 
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=masonreznov&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masonreznov&layout=compact)](https://masonreznov.github.io/)
