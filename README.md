@@ -1,5 +1,5 @@
 
-:coffee: I'm Michael and I turn coffee into code :coffee:
+:coffee: ### Greetings from [Michael!](https://masonreznov.github.io/) :coffee:
 <!--
 **masonreznov/masonreznov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
