@@ -13,4 +13,4 @@ Hi, my name is Michael Salam and I am a Ph.D. candidate at [National Institute o
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masonreznov&layout=compact&theme=dark)](https://masonreznov.github.io/)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=masonreznov)
+![](https://github-readme-streak-stats.herokuapp.com/?user=masonreznov&theme=dark)
