@@ -1,24 +1,13 @@
 
-### :coffee: Greetings from [Michael!](https://masonreznov.github.io/) :coffee:
-<!--
-**masonreznov/masonreznov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">:coffee: Greetings from [Michael!](https://masonreznov.github.io/) :coffee:</h1>
+<h3 align="center">PhD candidate and NLP reasercher</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=masonreznov&style=flat)
 Hi, my name is Michael Salam and I am a Ph.D. candidate at [National Institute of Technology, Silchar, India](http://nits.ac.in/). My research interest is primarily on Natural Language Processing for low resource languages.
 <!-- 
 The following is for profile views 
 -->
-![](https://komarev.com/ghpvc/?username=masonreznov)
+
 
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=masonreznov&show_icons=true&theme=radical&count_private=true)
