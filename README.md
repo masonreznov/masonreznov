@@ -9,7 +9,7 @@ Hi, my name is Michael Salam and I am a Ph.D. candidate at [National Institute o
 #### Connect me 
 - 📫 : salam_rs@cse.nits.ac.in | salammichaelcse@gmail.com
 
-<a href="https://www.linkedin.com/in/michael-salam-93b52074/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-salam" height="30" width="40" /></a>
+- <a href="https://www.linkedin.com/in/michael-salam-93b52074/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-salam" height="30" width="40" /></a>
 
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=masonreznov&show_icons=true&theme=radical&count_private=true)
