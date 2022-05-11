@@ -1,6 +1,6 @@
 
 <h1 align="center">:coffee: Greetings from <a href="https://masonreznov.github.io/">Michael</a> :coffee:</h1>
-<h3 align="center">PhD candidate and NLP reasercher</h3> :book:
+<h3 align="center">PhD candidate and NLP reasercher :book:</h3> 
 
 ![](https://komarev.com/ghpvc/?username=masonreznov&style=flat&label=VISITS)
 
