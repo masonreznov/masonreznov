@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **masonreznov/masonreznov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=masonreznov)
+
+<!-- 
+The following is for profile views 
+-->
+<!-- ![](https://komarev.com/ghpvc/?username=masonreznov) -->
 
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=masonreznov&show_icons=true&theme=radical&count_private=true)
