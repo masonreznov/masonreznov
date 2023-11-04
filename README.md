@@ -4,7 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=masonreznov&style=flat&label=VISITS)
 
-Hi, my name is Michael Salam and I am a Ph.D. candidate at [National Institute of Technology, Silchar, India](http://nits.ac.in/). My research interest is primarily on Natural Language Processing for low resource languages.
+Hi, my name is Michael Salam and I work as a Research Scientist at Crimson AI on AI/NLP using LLMs.
+<!--- Before this, I did my PhD from [National Institute of Technology, Silchar, India](http://nits.ac.in/). My research interest is primarily in Natural Language Processing for low-resource languages. -->
 
 #### Connect me:  [📫](mailto:salam_rs@cse.nits.ac.in)  <a href="https://www.linkedin.com/in/michael-salam-93b52074/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-salam" height="12" width="16" /></a> <a href="https://twitter.com/michael_salam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="michael_salam_" height="12" width="16" /></a>
 
